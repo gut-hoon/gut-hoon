@@ -76,7 +76,11 @@ https://github.com/gut-hoon/WebRTC
 - 실행 시간 제한을 통한 무한 루프 방지
 - Slack API 기반 모니터링 시스템 구축
 
-🔗 Organization Repository
+🔗 Repository
+
+예선: https://github.com/SoftBankHackathon2025/
+
+본선: https://github.com/Softbank-Ivory
 
 ---
 
