@@ -61,7 +61,6 @@ https://github.com/gut-hoon/WANDARY
 - Spring Security + JWT 인증/인가 구현
 - OpenVidu 기반 WebRTC 화상회의 구축
 - WebRTC 연결 과정 분석 및 트러블슈팅
-- 실시간 채팅 기능 구현
 
 🔗 Repository  
 https://github.com/gut-hoon/WebRTC
